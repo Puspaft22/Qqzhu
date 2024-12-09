@@ -145,7 +145,7 @@ nav {
 }
 nav .block {
   margin-top: -85px;
-  background: #d3d3d3;
+  background: #ffffff;
   padding: 25px 40px;
   background: rgba(255, 255, 255, 0.89);
 }
@@ -301,7 +301,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   opacity: 0.3;
 }
 #blog .block .heading {
-  color: #d3d3d3;
+  color: #ffffff
 }
 #blog .block ul {
   padding-top: 40px;
@@ -310,7 +310,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   overflow: hidden;
   width: 50%;
   float: left;
-  background: #d3d3d3;
+  background: #ffffff;
   text-align: center;
   color: #959595;
   transform: 1s;
@@ -379,7 +379,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   width: 30px;
   height: 30px;
   margin-top: -15px;
-  background: #d3d3d3;
+  background: #ffffff;
   transform: rotate(45deg);
   margin-left: -15px;
 }
@@ -399,7 +399,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   width: 30px;
   height: 30px;
   margin-top: 0px;
-  background: #d3d3d3;
+  background: #ffffff;
   transform: rotate(45deg);
 }
 #blog .block .btn-more-info {
@@ -407,7 +407,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   padding: 28px 102.5px;
   border-radius: 0px;
   background: #ff530a;
-  color: #d3d3d3;
+  color: #ffffff;
   border: 1px solid transparent ;
   text-transform: uppercase;
   font-weight: 500;
@@ -451,7 +451,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   display: inline-block;
   position: relative;
   z-index: 99;
-  background: #d3d3d3;
+  background: #ffffff;
 }
 #price .block .pricing-list ul li .item .item-title .border-bottom {
   position: absolute;
@@ -484,7 +484,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 }
 #price .block .pricing-list .btn:hover {
   background: #ff530a;
-  color: #d3d3d3;
+  color: #ffffff;
 }
 /*--
     order
@@ -511,16 +511,16 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   opacity: 0.3;
 }
 #order .block h1.heading {
-  color: #d3d3d3;
+  color: #ffffff;
 }
 #order .block p {
   padding: 25px 0px;
-  color: #d3d3d3;
+  color: #ffffff;
   font-size: 18px;
 }
 #order .block form .form-control {
   width: 450px;
-  background: #d3d3d3;
+  background: #ffffff;
   opacity: 0.9;
   border: none;
   height: 65px;
@@ -538,7 +538,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   border: none;
   border-radius: 0px;
   background: #7EC3BB;
-  color: #d3d3d3;
+  color: #ffffff;
   font-weight: 600;
   font-size: 16px;
   letter-spacing: 2px;
@@ -587,7 +587,7 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
 #contact-us .block a {
   background: #FF4F02;
   float: right;
-  color: #d3d3d3;
+  color: #ffffff;
   font-weight: 600;
   text-transform: uppercase;
   border-radius: 0px;
@@ -672,14 +672,14 @@ nav .block .navbar-default .navbar-nav > .active > a:hover:before {
   padding-top: 8px;
   border-radius: 100%;
   background: #B0B0B0;
-  color: #d3d3d3;
+  color: #ffffff;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
 }
 #footer .block .social-media-link ul li a:hover {
   background: #FF4F02;
-  color: #d3d3d3;
+  color: #ffffff;
 }
 /*--
     footer-bottom Start
